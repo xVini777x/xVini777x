@@ -10,7 +10,9 @@
 ### Entre em contato comigo:
 <a href="https://www.linkedin.com/in/vinicius-nogueira-396a07205/" ><img align="left" alt="Linkedin Vinicius | LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/vini_nogueira777/"><img align="left" alt="Instagram Vinicius | Instagram" width="108px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCBkGRwgPGjMFcWshRDSnngcPBgqzlvSTxWXgkMDmdmxfVwqgVfPlcMKWRtlkrfjlTPjZL"><img align="left" alt="E-mail Vinicius | LinkedIn" width="77px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:viniciushals@gmail.com"><img align="left" alt="E-mail Vinicius | LinkedIn" width="77px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+href="mailto:someone@microsoft.com"
 
 <br/><br/>
 
